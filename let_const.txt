@@ -1,0 +1,4 @@
+1. The difference between var and let is that in var you can declare another variable with the same name but you can't with let.
+2. The difference between var and const is that in const you cannot reassign a variable but you can with var and you an access the hoisted variable with var and not with const
+3. The difference between let in const is that you can reassign a variable with let and not with const
+4. Hoisting is where variables are at the top of where they are declared an example is that you can use the variable before it is defined with var but with let and const you cannot.
